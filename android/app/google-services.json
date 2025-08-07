@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309427982309",
+    "project_id": "bshop-c8a9a",
+    "storage_bucket": "bshop-c8a9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309427982309:android:bd059d0250dbdbf85e290c",
+        "android_client_info": {
+          "package_name": "com.ecom.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClegvfO4cr6SpReK4Nth9IanTQo0OCLBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
