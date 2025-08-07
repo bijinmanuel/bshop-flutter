@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyClegvfO4cr6SpReK4Nth9IanTQo0OCLBI',
-    appId: '1:309427982309:android:bd059d0250dbdbf85e290c',
-    messagingSenderId: '309427982309',
-    projectId: 'bshop-c8a9a',
-    storageBucket: 'bshop-c8a9a.firebasestorage.app',
+    apiKey: '****************nTQo0OCLBI',
+    appId: '****************50dbdbf85e290c',
+    messagingSenderId: '3****************823****************9',
+    projectId: 'bshop-****************',
+    storageBucket: '****************-****************.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCGBqXOYHtN4gseWFeU8nB9_gQDOYHQnAQ',
-    appId: '1:309427982309:ios:7622533f42318c4f5e290c',
-    messagingSenderId: '309427982309',
-    projectId: 'bshop-c8a9a',
-    storageBucket: 'bshop-c8a9a.firebasestorage.app',
-    iosBundleId: 'com.ecom.app',
+    apiKey: '****************_gQDOYHQnAQ',
+    appId: '1****************:ios:76****************18c4f5e290c',
+    messagingSenderId: '****************2309',
+    projectId: 'bs****************',
+    storageBucket: 'bsho****************reb****************app',
+    iosBundleId: 'com.ec****************',
   );
 }
