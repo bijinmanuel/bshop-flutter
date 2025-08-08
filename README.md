@@ -1,16 +1,40 @@
-# bcom_app
+Flutter Firebase Product App
+A Flutter mobile Ecomm app demonstrating Firebase user authentication, product listing, and favorite products management with responsive UI for phones and tablets.
 
-A new Flutter project.
+Features
+    -User Authentication with Firebase
 
-## Getting Started
+    -User registration
 
-This project is a starting point for a Flutter application.
+    -User login
 
-A few resources to get you started if this is your first Flutter project:
+    -Product List
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    -Display a list of products fetched from a data source (Firebase Firestore)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    -Responsive UI to adapt on phones and tablets
+
+    -Favorite Products
+
+    -Add/remove products to/from favorites
+
+    -Favorites stored locally or synced with Firebase per user
+
+# State Management #
+
+Efficient state handling across the app Provider.
+
+# Responsive Layout #
+
+    -Adaptive UI for both small screens (phones) and large screens (tablets)
+
+# Tech Stack #
+    Flutter — for cross-platform mobile app development
+
+    Firebase Authentication — for user sign-in and registration
+
+    Firebase Firestore — for product and favorites data storage
+
+    State Management — Provider
+
+    Responsive Design — Flutter's layout widgets and BoxConstraints
